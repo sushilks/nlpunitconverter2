@@ -1,0 +1,7 @@
+langchain==0.3.7
+langchain_core==0.3.15
+langchain_google_genai==2.0.4
+langchain_openai==0.2.6
+langgraph==0.2.45
+Pint==0.24.4
+typer==0.13.0
